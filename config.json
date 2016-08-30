@@ -1,0 +1,7 @@
+{
+	"mongodb_url": "mongodb://localhost:27017/demo_database",
+	"error_code": {
+		"success": { "status": "200", "message": "success" },
+		"fail": { "status": "500", "message": "" }
+	}
+}
